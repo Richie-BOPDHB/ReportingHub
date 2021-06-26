@@ -10,7 +10,7 @@
       "imageAlt": "Heading",
       "fontIcon": "fas fa-arrows-alt",
       "reportTypeId": 1,
-      "parentId": null
+      "parentId": 0
     },
     {
       "id": 2,
@@ -22,7 +22,7 @@
       "imageAlt": "Heading",
       "fontIcon": "fas fa-arrows-alt",
       "reportTypeId": 1,
-      "parentId": null
+      "parentId": 0
     },
     {
       "id": 3,
@@ -34,7 +34,7 @@
       "imageAlt": "Heading",
       "fontIcon": "fas fa-arrows-alt",
       "reportTypeId": 1,
-      "parentId": null
+      "parentId": 0
     },
     {
       "id": 4,
@@ -46,7 +46,7 @@
       "imageAlt": "Heading",
       "fontIcon": "fas fa-arrows-alt",
       "reportTypeId": 1,
-      "parentId": null
+      "parentId": 0
     },
     {
       "id": 5,
@@ -58,7 +58,7 @@
       "imageAlt": "Heading",
       "fontIcon": "fas fa-arrows-alt",
       "reportTypeId": 1,
-      "parentId": null
+      "parentId": 0
     },
     {
       "id": 7,
