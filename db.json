@@ -1,4 +1,5 @@
-[
+{
+  "Reports": [
   {
     "id": 1,
     "name": "Community Services",
@@ -443,4 +444,4 @@
     "reportTypeId": 3,
     "parentId": 6
   }
-]
+]}
