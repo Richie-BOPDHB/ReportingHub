@@ -142,7 +142,7 @@
       "imageAlt": "SQL Reporting Services",
       "fontIcon": null,
       "reportTypeId": 3,
-      "parentId": 5
+      "parentId": 2
     },
     {
       "id": 14,
@@ -154,7 +154,7 @@
       "imageAlt": "SQL Reporting Services",
       "fontIcon": null,
       "reportTypeId": 3,
-      "parentId": 5
+      "parentId": 2
     },
     {
       "id": 15,
