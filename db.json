@@ -8,7 +8,7 @@
       "toolTip": null,
       "imageSrc": null,
       "imageAlt": "Heading",
-      "fontIcon": "far fa-home-lg-alt",
+      "fontIcon": "fas fa-home",
       "reportTypeId": 1,
       "parentId": 0
     },
@@ -44,7 +44,7 @@
       "toolTip": null,
       "imageSrc": null,
       "imageAlt": "Heading",
-      "fontIcon": "fas fa-arrows-alt",
+      "fontIcon": "far fa-eye",
       "reportTypeId": 1,
       "parentId": 0
     },
@@ -56,7 +56,7 @@
       "toolTip": null,
       "imageSrc": null,
       "imageAlt": "Heading",
-      "fontIcon": "fas fa-arrows-alt",
+      "fontIcon": "fas fa-cogs",
       "reportTypeId": 1,
       "parentId": 0
     },
